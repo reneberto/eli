@@ -2,7 +2,7 @@
 # Propuesta desarrollo Software gestión auditoria 
 Diseño aplicación gestión tratamientos y aplicación de productos sobre predios  
 
-## Arquitectura Propuesta
+## Arquitectura Propuesta 
 
 ![alt text](https://github.com/reneberto/eli/blob/master/elidiag.jpeg)
 
