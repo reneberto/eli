@@ -23,7 +23,7 @@ Mas información en:
 
 ## Diagrama Uso Aplicación (versión inicial)
 
-![alt text](https://github.com/reneberto/eli/blob/master/flujoapp.jpeg)
+![alt text](https://github.com/reneberto/eli/blob/master/Flujoapp.jpeg)
 
 * Aplicación con control de credenciales , no se contempla administración de usuarios en caso de ser necesario se puede agregar.
 * Aplicación permite listar, almacenar y modificar datos de clientes existentes 
