@@ -4,7 +4,7 @@ Diseño aplicación gestión tratamientos y aplicación de productos sobre predi
 
 ## Arquitectura Propuesta
 
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/Diagrama%20en%20blanco.svg)
+![alt text](https://github.com/reneberto/eli/blob/master/elidiag.jpeg)
 
 Se utilizará un servidor en la nube en este caso se propone un linode Caracteristicas:
  1 CPU, 50GB Storage, 2GB RAM
