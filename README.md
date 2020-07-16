@@ -36,6 +36,18 @@ Mas información en:
 
 ## Mockup Aplicación
 
+* Login
+
+![alt text](https://github.com/reneberto/eli/blob/master/login.jpeg)
+
+* Busqueda y asignación Aplicación
+
+![alt text](https://github.com/reneberto/eli/blob/master/busquedapredio.jpeg)
+
+
+* Menu Principal Mantenedores (CRUD)
+
+![alt text](https://github.com/reneberto/eli/blob/master/menu.jpeg)
 
 
 
@@ -45,4 +57,16 @@ Mas información en:
 * Cambios de alcance afectos a cambios en presupuesto
 * Capacitación de uso , instalación y cambios no consideradas en los tiempos de proyecto (Sprint) , pero se incluyen en el Proceso.
 * Se utilizarán herramientas como "Trello" para la comunicación , creación de tareas y responsabilidades. 
+
+
+## Glosario
+
+
+```
+* Api rest : Servicio que permite la creacion , actualización , eliminiación y consulta de una entidad (cliente, predio , producto etc)(CRUD)
+* Aplicación (proceso de aplicar un producto a un predio)
+* Sprint : Tiempo dedicado a tareas especificadas (Considera entrega)
+* 
+```
+
 
