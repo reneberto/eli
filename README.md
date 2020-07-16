@@ -40,7 +40,7 @@ Mas información en:
 
 ![alt text](https://github.com/reneberto/eli/blob/master/login.jpeg)
 
-* Busqueda y asignación Aplicación
+* Búsqueda y asignación Aplicación
 
 ![alt text](https://github.com/reneberto/eli/blob/master/busquedapredio.jpeg)
 
