@@ -66,7 +66,6 @@ Mas información en:
 * Api rest : Servicio que permite la creacion , actualización , eliminiación y consulta de una entidad (cliente, predio , producto etc)(CRUD)
 * Aplicación (proceso de aplicar un producto a un predio)
 * Sprint : Tiempo dedicado a tareas especificadas (Considera entrega)
-* 
 ```
 
 
