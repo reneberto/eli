@@ -25,45 +25,23 @@ Mas información en:
 
 ![alt text](https://github.com/reneberto/eli/blob/master/Flujoapp.jpeg)
 
-* Aplicación con control de credenciales , no se contempla administración de usuarios en caso de ser necesario se puede agregar.
-* Aplicación permite listar, almacenar y modificar datos de clientes existentes 
-* Aplicación realiza la descarga de documentos , la creación y envío automático a través de correo electrónico
+* Aplicación con control de credenciales , contempla administración de usuarios.
+* Aplicación permite listar, almacenar y modificar datos de cada uno de los Api rest definidos en Diagrama de Arquitectura Propuesta(aplicacion,predio,cuartel,producto,maquinaria,usuarios_tecnicos)
+* Aplicación realiza la descarga de documentos , la creación , así como la generación de reportes en base a busquedas a definir.
+* Aplicación con manejo de concurrencia , dada las caracteristicas del hardware se estima una capacidad de 20 usuarios concurrentes en ejecución.
 
-## Tiempos de Proyecto (Sprint de 8 días)
+## Tiempos de Proyecto (Sprint de 9 días)
 
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/DiagramaProyecto.jpeg)
 
 ## Mockup Aplicación
 
-* Login:
 
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/login.jpeg)
-```
-Ingreso Controlado por Usuario y Contraseña
-```
-* Menu Principal:
 
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/Principal.jpeg)
-```
-Selección de Clientes y Documentos
-```
-* Clientes:
-
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/Clientes.jpeg)
-```
-Creación , búsqueda y modificación de Clientes
-```
-* Documento:
-
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/Documentos.jpeg)
-```
-Creación de Documentos asociados por búsqueda de cliente , descarga del documento y envío
-a través de correo electrónico
-```
 
 ## Consideraciones
 
-* Código fuente es propiedad de Megaservi
+* Código fuente es propiedad de Cliente
 * Cambios de alcance afectos a cambios en presupuesto
 * Capacitación de uso , instalación y cambios no consideradas en los tiempos de proyecto (Sprint) , pero se incluyen en el Proceso.
 * Se utilizarán herramientas como "Trello" para la comunicación , creación de tareas y responsabilidades. 
